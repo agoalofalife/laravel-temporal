@@ -1,0 +1,33 @@
+phpstan-baseline.neon
+  s_e7a2bd9a22e223::t_91a05ec1dc2d11 82
+  s_e7a2bd9a22e223::t_1f9da1f7f4d64b 98-147
+  s_e7a2bd9a22e223::t_fdd59ed87e71c1 76
+src/Support/RoadRunnerBinaryHelper.php
+  s_e7a2bd9a22e223::t_5154658887abc8 54-61
+tests/Unit/Support/RoadRunnerBinaryHelperTest.php
+  s_e7a2bd9a22e223::t_a3bd29fb8ba4f5 1-17
+composer.json
+  s_e7a2bd9a22e223::t_8392777ea8aa54 22-23,26
+src/Commands/Concerns/InteractsWithIO.php
+  s_e7a2bd9a22e223::t_8d038900f0deb2 18-19
+  s_e7a2bd9a22e223::t_36cd0c0b17329e 83-84
+tests/Unit/Commands/WorkCommandTest.php
+  s_e7a2bd9a22e223::t_fe6eab49636f03 3,5-6,9-32
+  s_e7a2bd9a22e223::t_e21e9e5c05a551 33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8f88e6846e1ebccaf5a54b2ad050751444db65db",
+  "prompts": {},
+  "sessions": {
+    "s_e7a2bd9a22e223": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aea1fba9-dc9b-45ab-814a-f3f6572452be",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "agoalofalife <agoalofalife@gmail.com>"
+    }
+  }
+}

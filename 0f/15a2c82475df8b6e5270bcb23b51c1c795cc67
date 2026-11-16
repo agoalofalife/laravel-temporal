@@ -1,0 +1,19 @@
+src/Support/ServerProcessInspector.php
+  s_e7a2bd9a22e223::t_4087f5932aae66 44-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0f15a2c82475df8b6e5270bcb23b51c1c795cc67",
+  "prompts": {},
+  "sessions": {
+    "s_e7a2bd9a22e223": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aea1fba9-dc9b-45ab-814a-f3f6572452be",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "agoalofalife <agoalofalife@gmail.com>"
+    }
+  }
+}
